@@ -1,2 +1,1 @@
-# Data-Structure
-Data Structure: 자료구조 (C++)
+# Data Structures and Algorithms : 자료구조 & 알고리즘 (C++)
