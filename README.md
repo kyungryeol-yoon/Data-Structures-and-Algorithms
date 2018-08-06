@@ -20,7 +20,7 @@
 | 삽입연산 | push | top |
 | 삭제연산 | pop  | top |
 
-- [`com.datastructure.stack.arraystack`] (https://github.com/) 순차자료구조방식을 통한 스택 구현
+- [순차자료구조방식을 통한 스택 구현](https://github.com/)
 - [`com.datastructure.stack.linkedstack`] (https://github.com/) 연결자료구조방식을 통한 스택 구현
 - [`com.datastructure.stack.apply`] (https://github.com/) 스택을 이용한 중위 표기법의 후위표기법 변환
 
