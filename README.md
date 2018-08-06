@@ -12,11 +12,45 @@
 >
 > 단순구조: 정수, 실수, 문자, 문자열
 
+* `Data-Structures`:
+  - `Dynamic-Array`
+    - C++ implementation + improvised Unit Tests
+  - `Linked-List`
+    - C++ implementation + improvised Unit Tests
+    - Python implementation + Unit Tests
+  - `Doubly-Linked-List`
+    - C++ implementation + improvised Unit Tests
+    - Python implementation + Unit Tests
+  - `Priority-Queue`
+    - Python implementation + Unit Tests
+  - `Stack`
+    - C++ implementation using `Dynamic-Array` + improvised Unit Tests
+    - C++ implementation using `Linked-List`   + improvised Unit Tests
+    - Python implementation using the built-in Python List class + Unit Tests
+    - Python implementation using `Linked-List` + Unit Tests
+  - `Queue`
+    - C++ implementation using `Linked-List` + improvised Unit Tests
+    - C++ implementation using `Circular-Array` + improvised Unit Tests
+    - Python implementation using `Linked-List` + Unit Tests
+    - Python implementation using `Circular-Array` + Unit Tests
+  - `Deque`
+    - C++ implementation using `Doubly-Linked-List` + improvised Unit Tests
+    - Python implementation using `Doubly-Linked-List` + Unit Tests
+  - `Graph`
+    - BFS, DFS, Dijkstra
+
 ### 자료구조와 알고리즘
 
  알고리즘은 자료구조를 통해 저장된 데이터를 대상으로 어떤 문제의 해결 방법이다. 어떤 자료구조를 택하느냐에 따라 문제 해결을 위한 효율적인 접근이 달라지므로 알고리즘은 자료구조에 의존적이다.
 
-
+* `Algorithms`:
+  - `Sorting`:
+    - `Insertion-Sort`
+    - `Counting-Sort`
+    - `Heap-Sort`
+    - `Merge-Sort`
+  - `Searching`:
+    - `Binary-Search`
 
 ## 알고리즘의 성능분석 방법
 
